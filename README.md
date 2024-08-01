@@ -1,5 +1,9 @@
-#Hi, I'm Arce. 
-##Master in Computer Science. 
+#Hi, I'm Arce.
+
+
+##Master in Computer Science.
+
+
 I am currently interested in software development and engineering. 
 My Stack:
 -TypeScript + ReactJS for the FrontEnd.
