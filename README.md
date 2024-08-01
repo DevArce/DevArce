@@ -1,11 +1,15 @@
 # Hi, I'm Arce.
 
 
-## Master in Computer Science.
+**Master in Computer Science.**
 
 
-I am currently interested in software development and engineering. 
+I am currently interested in software development and engineering.
+
+
 **My Stack:**
+
+
 - TypeScript + ReactJS for the FrontEnd.
 - Java + SpringBoot for the BackEnd.
 - SQL and non-relational databases.
